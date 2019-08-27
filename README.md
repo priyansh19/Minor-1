@@ -6,7 +6,4 @@ Nowadays, In the real world the threat of stealing your information is growing v
 
 ## Solution Perspective :
 
-We can implement a encryption / decryption system for files using c language by implementing the Huffman Algorithm over a secure channel
-
-
-
+We can implement a encryption / decryption system for files using c language by implementing the Huffman Algorithm over a secure channel using Socket Programming in C language.
